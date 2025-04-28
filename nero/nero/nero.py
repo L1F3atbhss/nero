@@ -1,5 +1,5 @@
 import os
-import nmap
+#import nmap
 import platform
 import re
 
