@@ -33,7 +33,7 @@ To get started with **Project Nero**, clone the repository and install the requi
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/nero.git
+git clone https://github.com/L1F3atbhss/nero.git
 cd nero
 ```
 
@@ -87,19 +87,6 @@ Starting Nmap scan for 192.168.1.1...
 
 ---
 
-## Contributing
-
-Feel free to contribute to **Project Nero** by submitting issues or pull requests.
-
-### Steps to contribute:
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-name`)
-3. Make your changes and commit (`git commit -m 'Add feature'`)
-4. Push to the branch (`git push origin feature-name`)
-5. Open a pull request
-
----
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -112,6 +99,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by the need for an easy-to-use network enumeration toolkit for cybersecurity professionals.
 
 ---
-
-This README should give users a clear overview of your project, how to install and use it, and how they can contribute.  
-You can personalize it further and add more details as your project evolves.
