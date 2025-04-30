@@ -1,5 +1,9 @@
 import os
 import re
+import n
+import e
+import r
+import o
 
 #var = input
 #ip address var
@@ -17,5 +21,6 @@ def banner():
 
 def main():
     banner()
+    nero()
 
 main()
