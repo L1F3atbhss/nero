@@ -1,6 +1,5 @@
 import os
 import re
-import nmap
 
 var = input
 #ip address var
@@ -18,3 +17,7 @@ Network Enumeration Rapid Operations
     print("Welcome to Project NERO")
     print("Network Enumeration Rapid Operations\n")
 
+def main():
+    banner()
+
+main()
