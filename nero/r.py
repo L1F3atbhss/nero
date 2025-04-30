@@ -1,7 +1,7 @@
 import os
 import re
 
-var = input
+#var = input
 #ip address var
 
 def banner():
@@ -11,8 +11,6 @@ def banner():
   N N N  EEEE   RRRR   O   O 
   N  NN  E      R  R   O   O 
   N   N  EEEEE  R   R   OOO  
-
-Network Enumeration Rapid Operations
     """)
     print("Welcome to Project NERO")
     print("Network Enumeration Rapid Operations\n")
