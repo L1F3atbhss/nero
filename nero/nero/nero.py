@@ -5,9 +5,6 @@ import e
 import r
 import o
 
-#var = input
-#ip address var
-
 def banner():
     print("""
   N   N  EEEEE  RRRR    OOO  
@@ -22,7 +19,6 @@ def banner():
 def main():
     banner()
     n.nero()
-    e.get_router_ip()
 
 main()
 
