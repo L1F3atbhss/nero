@@ -21,6 +21,8 @@ def banner():
 
 def main():
     banner()
-    nero()
+    n.nero()
+    e.get_router_ip()
 
 main()
+
